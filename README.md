@@ -56,7 +56,7 @@ It works with plain Claude Code. If you have specialist reviewer agents installe
 
 ## Related
 
-Building e-commerce funnels on Webcake? See [webcake-funnel-loop](https://github.com/RNLGWP/webcake-funnel-loop), the same three-employee loop specialised for landing pages, Pancake POS pricing, Botcake follow-ups, and Meta Pixel tracking.
+Building e-commerce funnels on Webcake? See [webcake-funnel-loop](https://github.com/BOSSRNL/webcake-funnel-loop), the same three-employee loop specialised for landing pages, Pancake POS pricing, Botcake follow-ups, and Meta Pixel tracking.
 
 ## License
 
@@ -64,4 +64,4 @@ MIT. Use it, fork it, adapt it. A link back is appreciated.
 
 ---
 
-Built by [Rannelle](https://github.com/RNLGWP) · Builder of e-commerce funnels & AI automations 🇵🇭
+Built by [Rannelle](https://github.com/BOSSRNL) · Builder of e-commerce funnels & AI automations 🇵🇭
